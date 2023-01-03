@@ -1,7 +1,7 @@
 ### Welcome to my profile 👋
 
 - 🔭 I’m currently working on full stack
-- 📚 I’m currently learning Typescript, Angular and Spring
+- 📚 I’m currently learning Typescript, Angular and Node
 
 <div align="center">
   <a href="https://github.com/leandromarcosdedeus">
